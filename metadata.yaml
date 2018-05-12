@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '34965'
     url: http://www.gutenberg.org/2009/agents/34965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31027#Walt-Whitman-Yesterday--amp--Today
 gutenberg_issued: '2010-01-20'
 gutenberg_type: Text
 identifiers:
